@@ -8,8 +8,8 @@ Composición tipográfica interactiva y generativa reactiva al sonido en tiempo 
 ---
 
 ## 🔗 Enlaces del Proyecto
-* [Ejecutar Proyecto en p5.js (Link Público)](PONER_AQUI_EL_LINK_DE_PRESENTACION)
-* [Revisar Código en p5.js (Link Editable)](PONER_AQUI_EL_LINK_DE_EDITOR)
+* [Ejecutar Proyecto en p5.js (Link Público)](https://editor.p5js.org/Dafnne/full/osO4_uGY0)
+* [Revisar Código en p5.js (Link Editable)](https://editor.p5js.org/Dafnne/sketches/osO4_uGY0)
 
 ---
 
