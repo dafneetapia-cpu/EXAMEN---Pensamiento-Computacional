@@ -78,7 +78,7 @@ La propuesta cromática y la lógica del código están estructuradas meticulosa
     <tr>
       <td><img src="Estado1.png" width="250" alt="Estado 1: Orden Crema"></td>
       <td><img src="Estado2.png" width="250" alt="Estado 2: Caos Rojo Inicial"></td>
-      <td><img src="Estado3" width="250" alt="Estado 3: Estructura Dada Con Marco"></td>
+      <td><img src="Estado3.png" width="250" alt="Estado 3: Estructura Dada Con Marco"></td>
     </tr>
   </table>
 
