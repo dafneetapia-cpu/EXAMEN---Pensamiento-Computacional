@@ -69,7 +69,7 @@ La propuesta cromática y la lógica del código están estructuradas meticulosa
       <td><img src="Referencia2.jpeg" width="300" alt="Referente Paleta Cromática"></td>
      <td><img src="Referencia3.jpeg" width="300" alt="Referente Tipográfico"></td>
      <td><img src="Referencia4.jpeg" width="300" alt="Referente Inspiración"></td>
-     <td><img src="Referencia5.jpeg" width="300" alt="Referente Constructivismo"></td>
+     <td><img src="Referente5.jpeg" width="300" alt="Referente Constructivismo"></td>
     </tr>
   </table>
 
