@@ -65,17 +65,20 @@ La propuesta cromática y la lógica del código están estructuradas meticulosa
 * **Referentes de Vanguardia (Dadaísmo / Constructivismo):**
   <table>
     <tr>
-      <td><img src="1000244521.jpg" width="300" alt="Referente Dadaísta"></td>
-      <td><img src="1000244535.jpg" width="300" alt="Referente Tipográfico"></td>
+      <td><img src="Referencia1.jpeg" width="300" alt="Referente Dadaísta"></td>
+      <td><img src="Referencia2.jpeg" width="300" alt="Referente Paleta Cromática"></td>
+     <td><img src="Referencia3.jpeg" width="300" alt="Referente Tipográfico"></td>
+     <td><img src="Referencia4.jpeg" width="300" alt="Referente Inspiración"></td>
+     <td><img src="Referencia5.jpeg" width="300" alt="Referente Tipográfico"></td>
     </tr>
   </table>
 
 * **Capturas del Software en Ejecución:**
   <table>
     <tr>
-      <td><img src="24db003a-719d-44c4-b2a4-bc613988653c" width="250" alt="Estado 1: Orden Crema"></td>
-      <td><img src="992104bb-9f45-4e84-a130-45c770f210b5" width="250" alt="Estado 2: Caos Rojo Inicial"></td>
-      <td><img src="8f0ef762-d52b-4e90-b5e8-ecb6fd547abd" width="250" alt="Estado 3: Estructura Dada Con Marco"></td>
+      <td><img src="Estado1.png" width="250" alt="Estado 1: Orden Crema"></td>
+      <td><img src="Estado2.png" width="250" alt="Estado 2: Caos Rojo Inicial"></td>
+      <td><img src="Estado3" width="250" alt="Estado 3: Estructura Dada Con Marco"></td>
     </tr>
   </table>
 
