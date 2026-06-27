@@ -59,7 +59,7 @@ La propuesta cromática y la lógica del código están estructuradas meticulosa
 ## 5. Registro Visual y Diagrama de Flujo
 
 ### Diagrama de Flujo del Sistema
-![Diagrama de Flujo Digital](diagrama.png)
+![Diagrama de Flujo Digital](Diagramade_flujo.png)
 
 ### Proceso de Diseño y Capturas
 * **Referentes de Vanguardia (Dadaísmo / Constructivismo):**
